@@ -9,8 +9,8 @@
   "author": "akrawiec",
   "license": "ISC",
   "dependencies": {
-    "@sentry/node": "^8.32.0",
-    "@sentry/profiling-node": "^8.32.0",
+    "@sentry/node": "^8.55.0",
+    "@sentry/profiling-node": "^8.55.0",
     "cors": "^2.8.5",
     "express": "^4.21.0",
     "http": "^0.0.1-security"
